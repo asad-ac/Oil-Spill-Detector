@@ -44,5 +44,3 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 - *Asad Chaudhry ([achau024@fiu.edu](mailto:achau024@fiu.edu)*
 - *Chelsea Nguyen ([chelsea.nguyen001@umb.edu](mailto:chelsea.nguyen001@umb.edu)*
 - *Xavier Rush ([xcrush@aggies.ncat.edu](mailto:xcrush@aggies.ncat.edu)*
-```
-
