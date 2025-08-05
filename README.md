@@ -1,6 +1,6 @@
 # Oil Spill Detection
 
-Trained a ResNet50 CNN to detect marine oil spills, implementing data augmentation techniques with Keras/Tensorflow, as part of the AI4ALL Ignite accelerator.
+Trained a ResNet18 CNN to detect marine oil spills, implementing data augmentation techniques with Keras/Tensorflow, as part of the AI4ALL Ignite accelerator.
 
 ## Problem Statement <!--- do not change this line -->
 
