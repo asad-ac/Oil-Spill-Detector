@@ -36,7 +36,6 @@ To accomplish this, we utilized the Keras ResNet18 model to classify images of w
 
 ## Authors <!--- do not change this line -->
 *This project was completed in collaboration with:*
-- *Asad Chaudhry ([achau024@fiu.edu](mailto:achau024@fiu.edu))*
 - *Jason Qin ([jq2406@nyu.edu](mailto:jq2406@nyu.edu))*
 - *Chelsea Nguyen ([chelsea.nguyen001@umb.edu](mailto:chelsea.nguyen001@umb.edu))*
 - *Xavier Rush ([xcrush@aggies.ncat.edu](mailto:xcrush@aggies.ncat.edu))*
