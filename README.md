@@ -68,6 +68,29 @@ Techniques that were incorporated:
   
 - **Learning Rate Scheduler**: Adjusted LR during training for stability (if no improvement in 3 epochs cut learning rate in half).
 
+## How to Run the Streamlit App <!--- new section -->
+
+To interact with the oil spill detection model via the Streamlit app, follow these steps:
+
+1. **Install Python 3.7 or higher** (if not installed):  
+   Download and install from [python.org](https://www.python.org/downloads/).
+
+2. **Set up and activate a virtual environment (recommended):**
+   ```bash
+   python -m venv venv
+   # On macOS/Linux:
+   source venv/bin/activate
+   # On Windows:
+   venv\Scripts\activate
+
+3. **Install Required Packages:**
+   pip install streamlit torch torchvision pandas numpy matplotlib
+   
+3. **Run Streamlit App:**
+   streamlit run oilspill_app.py
+
+   App will automatically open, but can access http://localhost:8501
+   
 ## Limitations & Future Work
 - **Dataset Size & Diversity**: Limited image diversity (mostly ocean scenes) could bias predictions.
 - **Class Imbalance**: Some oil spill images contain text overlays, which may influence results.
